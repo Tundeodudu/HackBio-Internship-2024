@@ -4,7 +4,7 @@
 
 Authors: Jana Moussa, Babatunde OWOLOYE, Habiba Sherif, youssif Mohamed.
 
-https://lnkd.in/d-K3-2fB
+https://tinyurl.com/2deodudu
  
 
 Benchmarking AlphaFold-enabled molecular docking predictions for antibiotic discovery <https://pubmed.ncbi.nlm.nih.gov/36065847/>
