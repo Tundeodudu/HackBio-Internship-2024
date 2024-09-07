@@ -25,7 +25,7 @@ Drug discovery has evolved from biochemical assays and genetic interactions to m
 4. A set of 100 inactive compounds was also docked for comparison.
 5. The predicted interactions were validated through enzymatic activity measurements for 12 essential proteins, confirming extensive promiscuity among the compounds.
 6. Model performance was evaluated by calculating the area under the receiver operating characteristic curve (auROC), which averaged 0.48, indicating weak predictive capability.
-7. Machine learning-based scoring functions were integrated, enhancing the performance
+7. Machine learning-based scoring functions were integrated, enhancing the performance.
 
 <!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
