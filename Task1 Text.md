@@ -28,31 +28,8 @@ Drug discovery has evolved from biochemical assays and genetic interactions to m
 6. Model performance was evaluated by calculating the area under the receiver operating characteristic curve (auROC), which averaged 0.48, indicating weak predictive capability.
 7. Machine learning-based scoring functions were integrated, enhancing the performance.
 
-<!--[if gte vml 1]><v:shapetype id="_x0000_t75"
- coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
- filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="image1.png" o:spid="_x0000_i1025" type="#_x0000_t75"
- style='width:451.5pt;height:315.75pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="file:///C:\Users\hp\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png"
-  o:title=""/>
-</v:shape><![endif]--><!--[if !vml]-->![](file:///C:/Users/hp/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)<!--[endif]-->
+
+![task1 image](https://github.com/user-attachments/assets/5d756aa7-725e-414b-917d-74c2a9f319d0)
 
 **Figure 1: Predicting Protein-Ligand Interactions Using AlphaFold2 and Molecular Docking and integrating machine learning.**
 
