@@ -132,7 +132,8 @@ Method : X-ray 1.50A
 
 Oligo state : monomer
 
-![](Aspose.Words.1438e956-551e-427f-b498-3b431062a568.001.png)
+![Aspose Words 1438e956-551e-427f-b498-3b431062a568 001](https://github.com/user-attachments/assets/68d0426f-7d2f-4219-baf9-d15537cb1f01)
+
 
 
 
@@ -145,7 +146,9 @@ Oligo state : monomer
 
   ipTM = -pTM = 0.88 
 
-  ![](Aspose.Words.1438e956-551e-427f-b498-3b431062a568.002.png)![](Aspose.Words.1438e956-551e-427f-b498-3b431062a568.003.png)
+  ![Aspose Words 1438e956-551e-427f-b498-3b431062a568 002](https://github.com/user-attachments/assets/3bea49d8-f8cf-4c2b-8e93-5ab9aad12f28)
+
+![Aspose Words 1438e956-551e-427f-b498-3b431062a568 003](https://github.com/user-attachments/assets/06a59f14-f8c3-4338-851e-e7a56e068135)
 
 
   **Compared to the crystal structures on the PDB**
