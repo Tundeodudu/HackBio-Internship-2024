@@ -28,17 +28,17 @@ In the Epidermal Growth Factor Receptor (EGFR), with UniProt ID P00533, several 
 
 **Binding Sites for ATP:**
 
-`   `- \*718-726\*: This region is involved in binding ATP, which is essential for the receptor's kinase activity.
+- 718-726: This region is involved in binding ATP, which is essential for the receptor's kinase activity.
 
-`   `- \*745\*: Another ATP binding site crucial for the enzymatic function of EGFR.
+- 745: Another ATP binding site crucial for the enzymatic function of EGFR.
 
-`   `- \*790-791\*: These residues also participate in ATP binding, facilitating the transfer of phosphate groups.
+- 790-791: These residues also participate in ATP binding, facilitating the transfer of phosphate groups.
 
-`   `- \*855\*: This site contributes to ATP binding, supporting the phosphorylation activity of the kinase domain.
+- 855: This site contributes to ATP binding, supporting the phosphorylation activity of the kinase domain.
 
-` `**Active Sites:**
+  **Active Sites:**
 
-`   `- \*837\*: This residue acts as a proton acceptor, playing a key role in the enzymatic mechanism of the kinase domain.
+- 837: This residue acts as a proton acceptor, playing a key role in the enzymatic mechanism of the kinase domain.
 
 **Domains:**
 
