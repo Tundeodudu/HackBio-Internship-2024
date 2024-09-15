@@ -1,8 +1,8 @@
-Contributors: Babatunde OWOLOYE, Kanu Calista, Emmanuel Owoeye
+##Contributors: Babatunde OWOLOYE, Kanu Calista, Emmanuel Owoeye
 
-EGFR Visualization in Computational Biology: Harnessing Homology Modeling and AlphaFold for Protein Modeling in Cancer Research
+##EGFR Visualization in Computational Biology: Harnessing Homology Modeling and AlphaFold for Protein Modeling in Cancer Research
 
-Introduction
+###Introduction
 The Epidermal Growth Factor Receptor (EGFR) plays a critical role in regulating cell growth, survival, and differentiation, making it a key focus in cancer research. Mutations and overexpression of EGFR are linked to various cancers, including lung, breast, and colorectal cancer. Visualizing the structure and dynamics of EGFR is crucial for understanding its biological functions and designing targeted therapies.
 
 Report
