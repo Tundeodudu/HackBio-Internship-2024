@@ -18,12 +18,13 @@ The 3D structure of EGFR was obtained from the Protein Data Bank (PDB). Phytoche
 
 The phytochemicals exhibited varying binding affinities, with lupeol demonstrating the strongest affinity (-12.8 kcal/mol). Lupeol formed hydrogen bonds with Met769 and Lys721 and hydrophobic interactions with Thr766.
 
-![https://cdn.rcsb.org/images/structures/1m14_assembly-1.jpeg](Aspose.Words.69d32307-332d-47ed-8a87-d75cd0bad659.001.jpeg) **Figure 1**: The 3D structure of the EGFR tyrosine kinase domain (PDB ID: 1M14) obtained from the Protein Data Bank. The figure displays the key features of the protein, including the ATP-binding pocket and the residues involved in ligandinteractions, such as Met769 and Lys721.
+![Aspose Words 69d32307-332d-47ed-8a87-d75cd0bad659 001](https://github.com/user-attachments/assets/1a894aa3-a0c5-4563-975d-247ad30e828a)
+ **Figure 1**: The 3D structure of the EGFR tyrosine kinase domain (PDB ID: 1M14) obtained from the Protein Data Bank. The figure displays the key features of the protein, including the ATP-binding pocket and the residues involved in ligandinteractions, such as Met769 and Lys721.
 
-![C:\Users\hp\Downloads\Stage 3\Capture 1.PNG](Aspose.Words.69d32307-332d-47ed-8a87-d75cd0bad659.002.png) **Figure 1.2**: Visualization of *Lupeol* docked within the active site of EGFR (PDB ID: 1M14), generated using Biovia Discovery Studio. The compound formed multiple hydrogen bonds with key EGFR residues, including Met769 and Lys721.
+![Aspose Words 69d32307-332d-47ed-8a87-d75cd0bad659 002](https://github.com/user-attachments/assets/4ce051f1-643d-4c5b-bbea-81cc2d16b488)
+ **Figure 1.2**: Visualization of *Lupeol* docked within the active site of EGFR (PDB ID: 1M14), generated using Biovia Discovery Studio. The compound formed multiple hydrogen bonds with key EGFR residues, including Met769 and Lys721.
 
-![C:\Users\hp\Downloads\Stage 3\Capture.PNG](Aspose.Words.69d32307-332d-47ed-8a87-d75cd0bad659.003.png)
-
+![Aspose Words 69d32307-332d-47ed-8a87-d75cd0bad659 003](https://github.com/user-attachments/assets/8ea69ee4-2043-4213-9f0f-07e1abf09d3d)
 **Figure 1.3**: Docking pose of *Lupeol* within the EGFR active site, highlighting hydrophobic interactions with Thr766, visualized in Biovia Discovery Studio
 
 **Discussion**
